@@ -5,6 +5,7 @@ const nextConfig = {
       domains: ['picsum.photos'],
     },
     // 如果需要，可以在这里添加其他配置
+    swcMinify: true,
   };
   
   export default nextConfig;
